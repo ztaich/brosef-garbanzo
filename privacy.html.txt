@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><title>Privacy Policy - Drive Backup</title></head>
+<body>
+<h1>Privacy Policy</h1>
+<p>Drive Backup is a personal, single-user application operated by Zack Taich. It is used solely to copy the owner's own Google Drive files to the owner's local backup storage using rclone.</p>
+<p>The application accesses only the owner's Google Drive data, only for that backup purpose. Data is stored on the owner's own hardware. No data is sold, shared with, or transmitted to any third party, and the application has no users other than the owner.</p>
+<p>Access can be revoked at any time from the Google Account security settings (Third-party access). Contact: zack.taich@gmail.com</p>
+</body>
+</html>
